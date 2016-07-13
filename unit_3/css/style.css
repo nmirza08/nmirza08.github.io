@@ -1,0 +1,10 @@
+body{
+	text-align: center;
+	background:url(https://www.dropbox.com/home/Images?preview=roasted_carrots.jpg);
+	background-size: cover;
+	color: #fff;
+	font-family: Helvetica;
+}
+#slogan{
+	font-style: italic;
+}
