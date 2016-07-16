@@ -1,9 +1,15 @@
 body{
 	text-align: center;
-	background: #6B6B6B;
-	color: #222;
-	font-family: Helvetica;
+	background: #fff;
+	color: #000;
+	font-family: "GT Sectra Fine",Georgia,"Times New Roman",Times,serif;
 }
 #slogan{
 	font-style: italic;
+}
+h1{
+font-size:24px;
+}
+h3{
+	22px
 }
