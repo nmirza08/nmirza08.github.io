@@ -1,0 +1,22 @@
+@import url(https://fonts.googleapis.com/css?family=McLaren);
+body{
+	text-align: center;
+	background: #fff;
+	color: #000;
+	}
+#slogan{
+	font-style: normal;
+	}
+h1{
+	font-size:28px;
+	}
+h3{
+	font-size:24px;
+	font-family: 'McLaren', cursive;	
+	}
+p{
+	font-family: palatino, georgia, serif
+	font-size:18px;
+	line-height:1.5em
+	margin:2em;
+	}
