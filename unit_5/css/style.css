@@ -32,3 +32,11 @@ div{
 section{
 	background-color: #FFE2B8
 }
+
+
+.hero{
+	background: url('../images/leopard_image4.jpg');
+	height: 500px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
