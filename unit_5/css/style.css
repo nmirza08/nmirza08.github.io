@@ -2,10 +2,13 @@ header{
 	background-color: #FFED74;
 	border:1px black solid;
 	padding:20px;
+	width: ;
 }
+
 
 img{
 	display:block;
+	margin: 0 auto;
 }
 nav{
 	background-color: #E8C66A;
