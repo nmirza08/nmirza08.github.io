@@ -3,6 +3,10 @@ header{
 	border:1px black solid;
 	padding:20px;
 }
+
+img{
+	display:block;
+}
 nav{
 	background-color: #E8C66A;
 }
