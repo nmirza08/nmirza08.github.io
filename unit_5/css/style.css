@@ -2,7 +2,7 @@ header{
 	background-color: #FFED74;
 	border:1px black solid;
 	padding:20px;
-	width: ;
+	width: 100%;
 }
 
 
@@ -14,17 +14,28 @@ nav{
 	background-color: #E8C66A;
 }
 
-article{
-	background-color:#E89C6C;
+#two_column{
+	background-color:#FFB7CF;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#left{
+	background-color:#E582A2;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#right{
+	background-color: #E55B88;
+	border: 1px black solid;
+	padding: 20px;
 }
 
 footer{
 	background-colour:#FF957E;
 }
 
-#.one{
-	background-color: #FFE2B8;
-}
 
 div{
 	background-color: #FFE2B8

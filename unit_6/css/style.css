@@ -1,0 +1,83 @@
+header{
+	background-color: #000000;
+	color:#fff;
+	font-size: 16px;
+	line-height: 1;
+	border:1px black solid;
+	padding:20px;
+}
+
+
+img{
+	display:block;
+	margin: 0 auto;
+}
+nav{
+	background-color: #000000;
+	color:#fff;
+	text-transform: uppercase;
+	float:right;
+}
+
+body, div{
+	font-weight: Helvetica,Arial,sans-serif;
+}
+
+#two_column{
+	background-color:#000000;
+	color:#fff;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#left{
+	background-color:#000000;
+	color:#fff;
+	border: 1px black solid;
+	padding: 2px;
+	float: left;
+	width: 46%;
+	display: inline-block;
+}
+
+#right{
+	background-color: #000000;
+	color:#fff;
+	border: 1px black solid;
+	padding: 2px;
+	float:right;
+	width: 46%;
+	display:inline-block;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content:"";
+	clear:both;
+	height:0;
+}
+
+
+footer{
+	background-colour:#000000;
+	color:#fff;
+}
+
+
+div{
+	background-color: #000000;
+}
+
+section{
+	background-color: #000000;
+}
+
+
+.hero{
+	background: url('../images/skull_2.jpg');
+	height: 400px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
