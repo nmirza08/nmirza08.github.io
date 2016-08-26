@@ -88,6 +88,12 @@ section{
 	width:100%;
 }
 
+/*@media (max-width: 800px) {
+	.hero {
+		background-size: contain;
+	}
+}*/
+
 @media (max-width: 480px) {
 /*	#two_colomn{
 		float:none;
